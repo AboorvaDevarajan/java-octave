@@ -1,4 +1,4 @@
-# Invoking Octave Commad in Java:
+# Invoking Octave Commad in Java
 
 Steps to be followed:
 
@@ -9,3 +9,5 @@ Steps to be followed:
 2.	Include common-loggin.jar in Eclipse
 
 	http://commons.apache.org/proper/commons-logging/download_logging.cgi
+
+3.	Exectue the attached java code.
